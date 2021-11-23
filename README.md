@@ -42,9 +42,9 @@ export default defineComponent({
   components: { SpriteComponent },
   setup() {
     /** 
-     * Stores the refs returned when the sprite is loaded. 
-     * Will return a ref for the image itself, the viewbox containing the image,
-     * and the sprite itself.
+     * Stores the returned refs when the sprite is loaded. 
+     * Will hold image, the viewbox containing the image,
+     * and the Sprite instance.
      */
     const assassin = ref<SpriteRefs | null>(null)
 
