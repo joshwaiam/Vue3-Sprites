@@ -1,6 +1,9 @@
 # Sprite README
 
-This feature will enable the animation of a spritesheet via Greensock Animation Plugin (GSAP).
+This is a proof of concept for a Vue3 sprite component I was working on. **Note: This is not maintained and was only made as a proof of concept.**
+
+## Demo
+![Sprite demo](demo.gif)
 
 ## Usage
 
