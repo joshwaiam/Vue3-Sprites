@@ -8,7 +8,7 @@ This feature will enable the animation of a spritesheet via Greensock Animation 
 <template>
   <div class="app-container">
     <SpriteComponent
-      src="characters/assassin1/walk-to-right.png"
+      src="walk-to-right.png"
       :sprite="{
         columns: 7,
         rows: 3,
